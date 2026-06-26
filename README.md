@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amour-si-fort/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Un Amour Si Fort](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amour-si-fort/) |
+| **Get License** | [Music Rights & Licensing for Un Amour Si Fort](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amour-si-fort/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `30b969719a99c63917e094c61c2ac07ae6b9d99af8b069a8211e2c3071bef4c1` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
